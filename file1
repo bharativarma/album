@@ -15,7 +15,9 @@ public class FreshJuiceTest {
      System.out.println("Hello Java");  
     }  
 }  
-public static void main(String[] args)
+public static void main(Sclass FreshJuice {
+   enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }
+   FreshJuiceSize size;tring[] args)
 
 public: So that JVM can execute the method from anywhere.
 static: Main method is to be called without object. 
